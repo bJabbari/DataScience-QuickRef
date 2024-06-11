@@ -19,7 +19,7 @@ This repository features a collection of Jupyter notebooks that serve as cheat s
 
 While these notebooks provide a quick reference, it's important to consult the official documentation for comprehensive information:
 
-- [Numpy Documentation](https://numpy.org/doc/)
+- [Numpy Documentation](https://numpy.org/doc/stable/)
 - [Pandas Documentation](https://pandas.pydata.org/docs/)
 
 Referring to the original documentation will help you gain a deeper understanding of the libraries and stay updated with the latest features and best practices.
